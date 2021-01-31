@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://tverdovskyialeksey.github.io/icecream-project-template/",
+  "homepage": "https://tverdovskyialeksey.github.io/Project/",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html",
-    "predeploy": "npm run build -- --public-url /icecream-project-template/",
+    "predeploy": "npm run build -- --public-url /Project/",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
